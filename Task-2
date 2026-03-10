@@ -1,0 +1,9 @@
+name="Shraddha"
+age=27
+college="Adsul Technical Campus"
+isStudent=True
+
+print("Name: ",name)
+print("Age: ",age)
+print("College: ",college)
+print("Student Status:",isStudent)
