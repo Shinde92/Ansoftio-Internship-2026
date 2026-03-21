@@ -1,0 +1,16 @@
+# Student Information Program
+
+print("Enter Student Details:\n")
+
+# Taking input from user
+name = input("Enter Student Name: ")
+age = input("Enter Age: ")
+city = input("Enter City: ")
+course = input("Enter Course: ")
+
+# Displaying the information
+print("\n--- Student Information ---")
+print("Name   :", name)
+print("Age    :", age)
+print("City   :", city)
+print("Course :", course)
