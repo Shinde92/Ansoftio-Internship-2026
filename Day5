@@ -1,0 +1,12 @@
+# Voting Eligibility Program
+
+print("Check Voting Eligibility\n")
+
+# Taking input from user
+age = int(input("Enter your age: "))
+
+# Checking condition
+if age >= 18:
+    print("You are Eligible to vote ✅")
+else:
+    print("You are NOT eligible to vote ❌")
