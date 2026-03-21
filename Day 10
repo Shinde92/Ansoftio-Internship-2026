@@ -1,0 +1,8 @@
+# List with duplicate numbers
+numbers = [1, 2, 3, 2, 4, 5, 1, 6, 3]
+
+# Convert list to set (removes duplicates)
+unique_numbers = set(numbers)
+
+# Print unique values
+print("Unique values:", unique_numbers)
