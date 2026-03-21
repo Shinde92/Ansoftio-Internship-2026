@@ -1,0 +1,16 @@
+# Create dictionary with student details
+
+student = {
+    "Name": "Shraddha",
+    "Age": 22,
+    "City": "Nashik",
+    "Course": "MCA"
+}
+
+# Print values using keys
+print("Student Details:\n")
+
+print("Name   :", student["Name"])
+print("Age    :", student["Age"])
+print("City   :", student["City"])
+print("Course :", student["Course"])
