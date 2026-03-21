@@ -1,0 +1,14 @@
+# Tuple of subjects
+
+subjects = ("Math", "Science", "English", "History", "Computer")
+
+# Print all subjects
+print("All Subjects:")
+for subject in subjects:
+    print(subject)
+
+# Print first subject
+print("\nFirst Subject:", subjects[0])
+
+# Print last subject
+print("Last Subject:", subjects[-1])
