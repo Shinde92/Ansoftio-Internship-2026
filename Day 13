@@ -1,0 +1,6 @@
+file = open("C:/Users/lenovo/Desktop/student.txt", "w")
+file.write("Name: Shraddha\n")
+file.write("Age: 27\n")
+file.write("City: Pune\n")
+file.write("Course: MCAEngg\n")
+file.close()
